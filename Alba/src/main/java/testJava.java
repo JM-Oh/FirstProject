@@ -9,5 +9,9 @@ public class testJava {
 		system.out.println("테스트2222");
 		system.out.println("테스트2222");
 		
+		system.out.println("테스트333");
+		system.out.println("테스트3333");
+		system.out.println("테스트333");
+		
 	}
 }

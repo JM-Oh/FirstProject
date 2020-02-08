@@ -4,6 +4,7 @@ public class testJava {
 		System.out.println("테스트할게요");
 		
 		system.out.println("테스트2222");
+		system.out.println("테스트2222");
 		
 	}
 }

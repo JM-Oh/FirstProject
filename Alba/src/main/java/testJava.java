@@ -5,6 +5,9 @@ public class testJava {
 		
 		system.out.println("테스트2222");
 		system.out.println("테스트2222");
+		system.out.println("테스트2222");
+		system.out.println("테스트2222");
+		system.out.println("테스트2222");
 		
 	}
 }
